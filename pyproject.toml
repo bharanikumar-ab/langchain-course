@@ -1,15 +1,15 @@
 [project]
-name = "ice-breaker"
+name = "langchain-course"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "black>=25.9.0",
-    "isort>=7.0.0",
+    "black>=26.10.1",
+    "isort>=9.0.2",
     "langchain>=1.0.4",
     "langchain-openai>=1.0.2",
-    "langchain-tavily>=0.2.13",
-    "python-dotenv>=1.2.1",
-    "tavily-python>=0.7.12",
+    "langchain-tavily>=0.2.18",
+    "python-dotenv>=1.2.4",
+    "tavily-python>=0.8.5",
 ]
